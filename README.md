@@ -1,6 +1,6 @@
 ## 👋 Olá eu sou o Marquezin 🚀
 
-Aqui você pode encontrar coisa que ira te ajudar no seu dia a dia!
+Aqui você pode encontrar coisa que ira te ajudar no seu dia a dia! 
 
 <div style="display: inline_block"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Marquezin&show_icons=true&theme=dark" />
