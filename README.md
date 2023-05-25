@@ -1,4 +1,4 @@
-## 👋 Olá eu sou o Marquezin 🚀, criador de conteúdo de programação!
+## 👋 Olá eu sou o Marquezin 🚀
 
 Aqui você pode encontrar coisa que ira te ajudar no seu dia a dia!
 
